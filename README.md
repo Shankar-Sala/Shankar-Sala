@@ -5,11 +5,7 @@
 
 <h3 align="center">Aspiring Full Stack Developer</h3>
 
-<div align="center">
- 
- 🌱 I’m currently learning full-stack web development, working with technologies like HTML, CSS, JavaScript, MongoDB, Express, React, nodejs.
 
-</div>
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/shankar-sala/" target="_blank">
