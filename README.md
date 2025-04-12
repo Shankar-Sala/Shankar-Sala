@@ -1,27 +1,73 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Shankar-Sala.Shankar-Sala" />
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shankar+Sala!;" />
-</h1>
+<h1 align="center">Hi there, I'm Shankar Sala 👋</h1>
 
-<h3 align="center">Aspiring Full Stack Developer</h3>
+<p align="center">
+  <em>3rd Year Computer Engineering Student | Full Stack Web Developer | Tech Enthusiast</em>
+</p>
 
+---
 
+## 🚀 About Me
 
-<div align="center"> 
+I'm a passionate Full Stack Web Developer currently in my 3rd year of Computer Engineering at **SSJCET**. I've completed a comprehensive full stack development course where I worked with:
+
+- **Frontend**: HTML, CSS, JavaScript, React  
+- **Backend**: Node.js, Express  
+- **Databases**: MongoDB  
+- **Tools**: Git, GitHub, VS Code  
+
+💡 I'm constantly learning and building — pushing my skills through real-world projects and staying up-to-date with modern web development trends.
+
+🤝 I love collaborating on meaningful tech projects, connecting with fellow developers, and bringing innovative ideas to life.
+
+> 💬 “Let’s build something amazing together.”
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
   <a href="https://www.linkedin.com/in/shankar-sala/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shankarsala9995@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/Shankar_WebDev" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
 
+---
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+## 💻 Projects
+
+### 🏆 [CloudVault](https://cloud-vault-five.vercel.app/)
+
+- **Description**: A secure storage and file sharing platform.
+- **Tech Stack**: `React 19`, `Next.js`, `Appwrite`, `Tailwind CSS`, `ShadCN`, `TypeScript`
+- **Key Features**:
+  - 🔐 **User Authentication with Appwrite** – Secure signup, login, and logout.
+  - 📤 **File Uploads** – Upload documents, images, videos, and audio files.
+  - 📥 **File Downloads** – Instant access to uploaded files.
+- **Status**: ✅ Completed
+
+---
+
+## 🛠 Technologies & Tools
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" />
-    <img src="https://skillicons.dev/icons?i=java,nodejs,express,npm,react,tailwind,mysql,mongodb" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" /> <br/>
+  <img src="https://skillicons.dev/icons?i=java,nodejs,express,npm,react,tailwind,mysql,mongodb" />
 </div>
-<br/>
 
+---
 
+## 🌱 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shankar-Sala&show_icons=true&theme=default&hide_title=true" />
+</div>
+
+---
+
+<p align="center">Thanks for visiting! 😊</p>
