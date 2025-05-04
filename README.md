@@ -15,13 +15,6 @@ I'm a passionate Full Stack Web Developer currently in my 3rd year of Computer E
 - **Databases**: MongoDB  
 - **Tools**: Git, GitHub, VS Code  
 
-💡 I'm constantly learning and building — pushing my skills through real-world projects and staying up-to-date with modern web development trends.
-
-🤝 I love collaborating on meaningful tech projects, connecting with fellow developers, and bringing innovative ideas to life.
-
-> 💬 “Let’s build something amazing together.”
-
----
 
 ## 📫 Connect with Me
 
