@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Shankar Sala 👋</h1>
 
 <p align="center">
-  <em>3rd Year Computer Engineering Student | Full Stack Web Developer | Tech Enthusiast</em>
+  <em>Computer Engineering Student | Full Stack Web Developer | Tech Enthusiast</em>
 </p>
 
 ---
