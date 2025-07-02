@@ -30,18 +30,6 @@ I'm a passionate Full Stack Web Developer currently in my 3rd year of Computer E
 
 ---
 
-## 💻 Projects
-
-### 🏆 [CloudVault](https://cloud-vault-five.vercel.app/)
-
-- **Description**: A secure storage and file sharing platform.
-- **Tech Stack**: `React 19`, `Next.js`, `Appwrite`, `Tailwind CSS`, `ShadCN`, `TypeScript`
-- **Key Features**:
-  - 🔐 **User Authentication with Appwrite** – Secure signup, login, and logout.
-  - 📤 **File Uploads** – Upload documents, images, videos, and audio files.
-  - 📥 **File Downloads** – Instant access to uploaded files.
-- **Status**: ✅ Completed
-
 ---
 
 ## 🛠 Technologies & Tools
