@@ -8,8 +8,8 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Web Developer currently in my 3rd year of Computer Engineering at **SSJCET**. I've completed a comprehensive full stack development course where I worked with:
-
+I'm a passionate Full Stack Web Developer currently in my **4th year of Computer Engineering at SSJCET**.  
+I’ve completed a comprehensive full stack development course and gained hands-on experience with:
 - **Frontend**: HTML, CSS, JavaScript, React  
 - **Backend**: Node.js, Express  
 - **Databases**: MongoDB  
